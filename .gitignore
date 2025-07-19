@@ -1,0 +1,8 @@
+# Ignore all Java compiled files
+*.class
+
+# Ignore common build folders (optional)
+bin/
+target/
+
+# Ignore any other temp files you want to exclude
